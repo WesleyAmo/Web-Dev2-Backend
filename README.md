@@ -1,4 +1,4 @@
-# Docker setup that runs a demo REST api
+# Docker setup that runs a REST api
 
 It contains:
 
